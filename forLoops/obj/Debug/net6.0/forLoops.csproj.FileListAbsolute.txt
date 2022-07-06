@@ -1,0 +1,15 @@
+C:\Users\Digit\source\repos\forLoops\forLoops\bin\Debug\net6.0\forLoops.exe
+C:\Users\Digit\source\repos\forLoops\forLoops\bin\Debug\net6.0\forLoops.deps.json
+C:\Users\Digit\source\repos\forLoops\forLoops\bin\Debug\net6.0\forLoops.runtimeconfig.json
+C:\Users\Digit\source\repos\forLoops\forLoops\bin\Debug\net6.0\forLoops.dll
+C:\Users\Digit\source\repos\forLoops\forLoops\bin\Debug\net6.0\forLoops.pdb
+C:\Users\Digit\source\repos\forLoops\forLoops\obj\Debug\net6.0\forLoops.csproj.AssemblyReference.cache
+C:\Users\Digit\source\repos\forLoops\forLoops\obj\Debug\net6.0\forLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digit\source\repos\forLoops\forLoops\obj\Debug\net6.0\forLoops.AssemblyInfoInputs.cache
+C:\Users\Digit\source\repos\forLoops\forLoops\obj\Debug\net6.0\forLoops.AssemblyInfo.cs
+C:\Users\Digit\source\repos\forLoops\forLoops\obj\Debug\net6.0\forLoops.csproj.CoreCompileInputs.cache
+C:\Users\Digit\source\repos\forLoops\forLoops\obj\Debug\net6.0\forLoops.dll
+C:\Users\Digit\source\repos\forLoops\forLoops\obj\Debug\net6.0\refint\forLoops.dll
+C:\Users\Digit\source\repos\forLoops\forLoops\obj\Debug\net6.0\forLoops.pdb
+C:\Users\Digit\source\repos\forLoops\forLoops\obj\Debug\net6.0\forLoops.genruntimeconfig.cache
+C:\Users\Digit\source\repos\forLoops\forLoops\obj\Debug\net6.0\ref\forLoops.dll
